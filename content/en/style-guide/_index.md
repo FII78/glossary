@@ -30,7 +30,7 @@ Please explain definitions in simple terms, and don’t assume technical knowled
 
 ## Minimum viable definition 
 
-We aim to make it easy for anyone to understand cloud native terms. 
+We aim to make it easy for anyone to understand cloud-native terms. 
 As such, we focus on simplicity. 
 Use clear, simple language with examples anyone who uses technology can relate to while also providing a *minimum viable definition*, at least from a technical point of view. 
 We don't want to save on context and examples—after all, those things help the reader understand the concept—but if a technical detail is not needed to understand it, we'll skip it. 
@@ -47,8 +47,6 @@ title:
 status: 
 category: 
 ---
-
-## What it is
 
 A quick summary of the technology or concept.
 
@@ -122,7 +120,7 @@ tags: ["tag 1", "tag 2", ""]
 
 The definitions for **technology** and **concept** categories contain three subheadings: 
 
-- **What it is**: provide a short and clear overview of what we are talking about.
+- provide a short and clear overview of what we are talking about.
 - **Problem it addresses**: focus on the problem, not the solution (that comes in the next section). 
   Avoid mentioning the term that is defined. The problem focuses on *what* led us to need that thing. 
 - **How it helps**: now, come back to the term. How does it address the problem described above?
@@ -159,10 +157,10 @@ When appropriate, use **real-world examples** that help readers (especially non-
 
 When used in your definition, always **link to existing glossary terms** (only the first mention should be hyperlinked).
 
-**Example**: look at the “What it is” section of the [service mesh definition](/service-mesh/). 
+**Example**: look at the first section of the [service mesh definition](/service-mesh/). 
 It links back to the definitions of microservices, service, reliability, and observability. 
 Additionally, it uses a real-world example comparing network challenges in a microservices environment (something non-technical people can't relate to) 
-to wifi problems (something anyone using a laptop can understand). 
+to Wi-Fi problems (something anyone using a laptop can understand). 
 Where possible, try to make that connection. 
 
 #### Start with a Google or Word doc
